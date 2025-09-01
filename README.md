@@ -38,7 +38,7 @@ Apaixonado por programação, atualmente focado em **Java**, **Python**, **inter
 
 - [Booki](https://github.com/Gasparelli-PIc/Booki) – Compartilhamento de livros lidos e favoritos
 - [Mony](https://github.com/Gasparelli-PIc/Mony) – Aplicativo de organização financeira em Java (Desenvolvimento)
-- [Organizer](https://github.com/Gasparelli-PIc/Organizer) - Um software para auxiliar na organização (Desenvolvimento )
+- [Sortly](https://github.com/Gasparelli-PIc/Sortly) - Um software para auxiliar na organização (Desenvolvimento )
 
 ---
 
