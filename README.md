@@ -43,10 +43,6 @@ Apaixonado por programação, atualmente focado em **Java**, **Python**, **inter
 
 ---
 
-`## 📊 Minhas Estatísticas`
-
-`![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasparelli-PIc&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasparelli-PIc&layout=compact&theme=dark)`
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-54a8222b7)  
