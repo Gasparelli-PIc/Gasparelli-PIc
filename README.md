@@ -45,7 +45,7 @@ Apaixonado por programação, atualmente focado em **Java**, **Python**, **inter
 
 ## 📊 Minhas Estatísticas
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasparelli-PIc&show_icons=true&theme=dark&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasparelli-PIc&layout=compact&theme=dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasparelli-PIc&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gasparelli-PIc&layout=compact&theme=dark)
 
 
 ---
